@@ -16,3 +16,4 @@ class Student:
         else:
             return 'Ошибка'
     def _avg_grade(self):
+        if
